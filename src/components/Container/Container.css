@@ -1,0 +1,76 @@
+.container{
+    margin-top: 180px;
+    width: 100%;
+    position: absolute;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://smokeshop.by/design/smokeshopby/assets/images/main-image.jpg");
+}
+
+.container h1{
+    padding-left: 60px;
+    color: white;
+    padding-top: 50px;
+    font-size: 38px;
+    font-family: 'Playfair Display', serif;
+}
+
+.container h4{
+    padding-left: 60px;
+    color: white;
+    font-size: 26px;
+    font-family: 'Playfair Display', serif;
+}
+
+.btn{
+    display: flex;
+    margin-top: 200px;
+}
+
+.btn1{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    border:white solid 3px;
+    margin-left: 400px;
+}
+
+.btn1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    padding-left: 40px;
+}
+
+.btn1:hover{
+    background-color:  #1fb4b3;
+}
+
+.btn1 a:hover{
+    color: white;
+}
+
+.btn2:hover{
+    background-color:  #1fb4b3;
+}
+
+.btn2 a:hover{
+    color: white;
+}
+.btn2{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    border:white solid 3px;
+    margin-left: 60px;
+}
+
+.btn2 a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding-left: 40px;
+    font-family: 'Playfair Display', serif;
+}

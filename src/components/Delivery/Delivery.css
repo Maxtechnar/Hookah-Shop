@@ -1,0 +1,44 @@
+.delivery{
+    position: absolute;
+    margin-top: 180px;
+    width: 100%;
+    font-family:  'Playfair Display', serif;
+    font-weight: bold;
+    
+}
+
+.text h1{
+   text-align: center;
+}
+
+
+
+.text{
+margin-top: 100px;
+}
+
+.text ul{
+    margin-left: 20px;
+    padding-top: 20px;
+    color: gray;
+    font-weight: bold;
+}
+
+.text li{
+    padding-top: 10px;
+}
+
+.background{
+    height: 450px;
+    background-image:url("https://smokeshop.by/design/smokeshopby/assets/images/main-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background h1{
+    text-align: center;
+    padding-top: 165px;
+    color: white;
+    font-weight: bold;
+    font-size: 46px;
+}

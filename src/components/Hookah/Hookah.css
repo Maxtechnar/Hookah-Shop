@@ -1,0 +1,12 @@
+.hookah{
+    position: absolute;
+    margin-top: 180px;
+    width: 100%;
+}
+
+.background1 p{
+    color: #edf2f5;
+    text-align: center;
+    font-family:  'Playfair Display', serif;
+    font-weight: bold;
+}

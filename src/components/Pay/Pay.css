@@ -1,0 +1,59 @@
+.pay{
+    position: absolute;
+    margin-top: 180px;
+    width: 100%;
+    font-family:  'Playfair Display', serif;
+    font-weight: bold; 
+}
+
+.pay h1{
+    text-align: center;
+}
+
+.pay p{
+    margin-left: 60px;
+    padding-top: 20px;
+    color: gray;
+    font-weight: bold;
+}
+.background{
+    margin-top: 40px;
+}
+
+
+.background h1{
+    font-weight: 900;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    color: white;
+    font-weight: bold; 
+}
+
+.text1 b{
+    color: black;
+    font-weight: bold;
+}
+
+.text1 ol{
+    margin-left: 20px;
+    padding-top: 20px;
+    color: gray;
+    font-weight: bold;
+}
+
+ .text1{
+ padding-top: 480px;
+ }
+ 
+ .text1 ul{
+     margin-left: 20px;
+     padding-top: 20px;
+     color: gray;
+     font-weight: bold;
+ }
+ 
+ .text1 li{
+     padding-top: 10px;
+ }

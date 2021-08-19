@@ -1,0 +1,79 @@
+
+.contact{
+    margin-top: 180px;
+    position: absolute;
+    background-color: #edf2f5;
+    width: 100%;
+    display: flex;
+}
+
+.background1{
+    height: 450px;
+    background-image:url("https://smokeshop.by/design/smokeshopby/assets/images/main-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    position: absolute;
+}
+
+
+.background1 h1{
+    font-weight: 900;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    color: white;
+    font-weight: bold; 
+    margin-top: 165px;
+    font-size: 46px;
+    font-family:  'Playfair Display', serif;
+}
+
+
+.form{
+    margin-left: 80px;
+    margin-top: 550px;
+}
+
+.feedback{
+margin-left:300px; 
+margin-top: 540px;
+}
+
+.form input{
+    border-radius: 10px 10px 10px 10px;
+    border: white;
+    width: 350px;
+    height: 30px;
+}
+
+.form textarea{
+    border-radius: 10px 10px 10px 10px;
+    border: white;
+    width: 350px;
+    height: 80px;
+}
+
+button{
+ cursor: pointer;
+    color: #000;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 2px solid #000;
+    border-radius: 10px;
+    width:120px;
+    height: 40px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+button:active{
+    background-color: #edf2f5;
+    color: black;
+}
+
+    

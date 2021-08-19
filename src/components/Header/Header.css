@@ -1,0 +1,42 @@
+.header{
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    opacity: 76%;
+    display: flex;
+}
+
+.header h1 {
+    color: #1fb4b3;
+    padding-left: 60px;
+    padding-top: 5px;
+    cursor: pointer;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+.header p{
+    color: #1fb4b3; 
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 70px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+.blog{
+    padding-left: 780px;
+    padding-top: 40px;
+}
+
+.blog a{
+    text-decoration: none;
+    color: #1fb4b3;
+    padding: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+}
